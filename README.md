@@ -7,7 +7,7 @@
 ![Opensource](https://img.shields.io/badge/OpenSource-Yes!-6f42c1)
 
 
-# Red Wine Quality Prediction using Machine Learning Algorithms#
+# Red Wine Quality Prediction using Machine Learning Algorithms
 
 
 The code in this repository is supplementary to our future publication "Towards Predicting the Quality of Red Wine using Machine Learning Algorithms for Classification Analysis, Data Visualizations and Data Analysis" 
