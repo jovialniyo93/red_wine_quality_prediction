@@ -10,7 +10,7 @@
 # Red Wine Quality Prediction using Machine Learning Algorithms
 
 
-The code in this repository is supplementary to our future publication "Towards Predicting the Quality of Red Wine using Machine Learning Algorithms for Classification Analysis, Data Visualizations and Data Analysis" 
+The code in this repository is supplementary to our future publication "Red wine quality prediction with machine learning algorithms" 
 
 
 
