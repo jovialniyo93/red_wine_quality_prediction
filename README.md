@@ -7,7 +7,7 @@
 ![Opensource](https://img.shields.io/badge/OpenSource-Yes!-6f42c1)
 
 
-# [Towards Predicting the Quality of Red Wine Using Novel Machine Learning Methods for Classification, Data Visualization and Analysis] (https://doi.org/10.47852/bonviewAIA42021999)
+#[Towards Predicting the Quality of Red Wine Using Novel Machine Learning Methods for Classification, Data Visualization and Analysis](https://doi.org/10.47852/bonviewAIA42021999)
 
 
 The code in this repository is supplementary to our publication "Towards Predicting the Quality of Red Wine Using Novel Machine Learning Methods for Classification, Data Visualization and Analysis" 
