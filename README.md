@@ -7,10 +7,10 @@
 ![Opensource](https://img.shields.io/badge/OpenSource-Yes!-6f42c1)
 
 
-# Red Wine Quality Prediction using Machine Learning Algorithms
+# [Towards Predicting the Quality of Red Wine Using Novel Machine Learning Methods for Classification, Data Visualization and Analysis (https://doi.org/10.47852/bonviewAIA42021999)
 
 
-The code in this repository is supplementary to our future publication "Red wine quality prediction with machine learning algorithms" 
+The code in this repository is supplementary to our publication "Towards Predicting the Quality of Red Wine Using Novel Machine Learning Methods for Classification, Data Visualization and Analysis" 
 
 
 
@@ -30,8 +30,15 @@ This project employs the wine dataset for all the conducted procedures. The data
 
 
 
-**Created by:** Jovial Niyogisubizo 
+**Citation Request:** 
+
+Niyogisubizo, J., Ninteretse, J. de D. ., Nziyumva, E., Nshimiyimana, M. ., Murwanashyaka, E. ., & Habiyakare, E. (2024). Towards Predicting the Quality of Red Wine Using Novel Machine Learning Methods for Classification, Data Visualization and Analysis. Artificial Intelligence and Applications. https://doi.org/10.47852/bonviewAIA42021999
+
+**Created by:** : Jovial Niyogisubizo 
+
 jovialniyo93@gmail.com
+
+>[Online Published Paper](https://doi.org/10.47852/bonviewAIA42021999)
 
 ## License ##
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
